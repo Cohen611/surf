@@ -1,0 +1,122 @@
+
+
+.heading-title{
+  color:white;
+  font-family: sans-serif;
+margin:0 top;
+}
+ul{
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
+li{
+  display: inline-block;
+  color:white;
+  text-align: left;
+  padding:25px;
+}
+
+.header{
+  background-color: blue;
+}
+.main{
+  width:100%;
+  margin:0 top;
+  margin-right: 5%;
+  display: inline-block;
+}
+.freespace{
+border-width: thin:black;
+
+}
+footer{
+  background-color: navy;
+    width:100%;
+    color:white;
+    text-align: left;
+}
+.footer li{
+  text-decoration: none;
+  text-align: left;
+
+}
+.fourdivs{
+  background-color: gray;
+}
+.column1{
+  display:inline-block;
+  vertical-align: top;
+  width: 60%;
+}
+.column2{
+  vertical-align: top;
+  display: inline-block;
+  width: 27%;
+}
+h5{
+  font-size: 60px;
+  font-style: italic;
+  color: grey;
+  font-family:serif;
+
+}
+h4{
+  color:blue;
+}
+
+.woah{
+  color:blue;
+  font-size: 25px;
+  margin:5%;
+  font-style: normal;
+  font-family: sans-serif;
+}
+.post{
+  width:100%;
+  border-top: 1px black;
+  margin-top: 65px;
+}
+.post-header{
+  text-align: center;
+  font-size: 4em;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.post-box{
+  width: 25%;
+  height: 325px;
+  display: inline-block;
+  position: relative;
+}
+.post-1{
+  background: url('IMG_9543.jpg');
+}
+.post-2{
+  background: url('Alcohol.jpeg');
+}
+.post-3{
+  background: url('Zack.jpg');
+}
+.post-4{
+  background: url('beer.jpeg');
+}
+.post-color{
+  background-color: grey;
+  height:330px;
+}
+
+.post-text{
+  font-size: 1.8em;
+  margin-left: 20px;
+  position: absolute;
+
+}
+.footer-nav{
+  display: inline-block;
+  background-color: navy;
+  width:100%
+
+}
